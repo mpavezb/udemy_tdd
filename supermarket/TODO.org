@@ -1,0 +1,16 @@
+Supermarket Checkout Kata -*- mode: org -*
+#+TODO: TODO IN-PROGRESS WAITING DONE
+#+STARTUP: showall
+
+* Test Cases
+** DONE Can creatte an instance of the Checkout class.o
+** DONE Can add an item price.
+** DONE Can add an item.
+** DONE Can calculate the current total.
+** DONE Can add multiple items and get correct total.
+** DONE Can add discount rules.
+** DONE Can apply discount rules to the total.
+** DONE Exception is thrown if item without price is added.
+
+
+

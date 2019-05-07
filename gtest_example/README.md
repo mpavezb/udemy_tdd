@@ -22,4 +22,6 @@ export GTEST_COLOR=1
 make test
 make test ARGS=-V
 ctest -V
+
+cmake .. && make && ctest -V
 ```
