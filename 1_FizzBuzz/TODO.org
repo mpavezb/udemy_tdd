@@ -4,11 +4,11 @@ FizzBuzz -*- mode: org -*
 
 
 * FizzBuzz
-** TODO Can I call the fizzbuzz function?
-** TODO Get "1" when I pass in 1.
-** TODO Get "2" when I pass in 2.
-** TODO Get "Fizz" when I pass in 3.
-** TODO Get "Buzz" when I pass in 5.
-** TODO Get "Fizz" when I pass in 6 (a multiple of 3).
-** TODO Get "Buzz" when I pass in 10 (a multiple of 5).
-** TODO Get "FizzBuzz" when I pass in 15 (a multiple of 3 and 5).
+** DONE Can I call the fizzbuzz function?
+** DONE Get "1" when I pass in 1.
+** DONE Get "2" when I pass in 2.
+** DONE Get "Fizz" when I pass in 3.
+** DONE Get "Buzz" when I pass in 5.
+** DONE Get "Fizz" when I pass in 6 (a multiple of 3).
+** DONE Get "Buzz" when I pass in 10 (a multiple of 5).
+** DONE Get "FizzBuzz" when I pass in 15 (a multiple of 3 and 5).

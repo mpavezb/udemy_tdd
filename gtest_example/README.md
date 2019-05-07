@@ -17,5 +17,9 @@ sudo cp *.a /usr/lib
 ```bash
 mkdir -p build && cd build
 cmake .. && make
+
+export GTEST_COLOR=1
 make test
+make test ARGS=-V
+ctest -V
 ```
