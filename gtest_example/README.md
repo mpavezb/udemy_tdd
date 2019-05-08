@@ -1,6 +1,6 @@
 # README
 
-## Gtest Installation
+## Gtest/GMock  Installation
 
 ```bash
 sudo apt-get install cmake # install cmake
@@ -11,6 +11,8 @@ sudo make
 # copy or symlink libgtest.a and libgtest_main.a to your /usr/lib folder
 sudo cp *.a /usr/lib
 ```
+
+Repeat for `/usr/src/gmock` directory.
 
 ## Compilation and Running
 

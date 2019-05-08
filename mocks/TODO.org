@@ -1,0 +1,12 @@
+Mocks Kata -*- mode: org -*
+#+TODO: TODO DONE
+#+STARTUP: showall
+
+* Test Cases
+** DONE Can instanciate DataHolder.
+** DONE Can add data.
+** DONE Can add data and get data.
+
+
+
+
